@@ -1,0 +1,10 @@
+C:\Users\Tasnin\source\repos\Demo\Demo\bin\Debug\Demo.exe.config
+C:\Users\Tasnin\source\repos\Demo\Demo\bin\Debug\Demo.exe
+C:\Users\Tasnin\source\repos\Demo\Demo\bin\Debug\Demo.pdb
+C:\Users\Tasnin\source\repos\Demo\Demo\obj\Debug\Demo.csproj.AssemblyReference.cache
+C:\Users\Tasnin\source\repos\Demo\Demo\obj\Debug\Demo.Form1.resources
+C:\Users\Tasnin\source\repos\Demo\Demo\obj\Debug\Demo.Properties.Resources.resources
+C:\Users\Tasnin\source\repos\Demo\Demo\obj\Debug\Demo.csproj.GenerateResource.cache
+C:\Users\Tasnin\source\repos\Demo\Demo\obj\Debug\Demo.csproj.CoreCompileInputs.cache
+C:\Users\Tasnin\source\repos\Demo\Demo\obj\Debug\Demo.exe
+C:\Users\Tasnin\source\repos\Demo\Demo\obj\Debug\Demo.pdb
